@@ -1,8 +1,3 @@
-#!/usr/bin/env node
-/**
- * @author David Spreekmeester <david@grrr.nl>
- */
-
 const mysql     = require('mysql2')
 const Client    = require('ssh2').Client;
 
